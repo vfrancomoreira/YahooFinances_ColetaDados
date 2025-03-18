@@ -1,0 +1,20 @@
+2025-03-18 17:59:09,419 - INFO - Iniciando coleta de dados via API para AAPL
+2025-03-18 17:59:09,420 - INFO - Buscando dados da API para AAPL
+2025-03-18 17:59:12,178 - INFO - Dados formatados para AAPL: {'Ticker': 'AAPL', 'Price': '212.69', 'Change': '-1.47', 'Percent Change': '(-0.69%)'}
+2025-03-18 17:59:12,209 - INFO - Dados salvos com sucesso em data\dados_yahoo_api.csv
+2025-03-18 18:11:11,793 - INFO - Iniciando coleta de dados via API para AAPL
+2025-03-18 18:11:11,795 - INFO - Buscando dados da API para AAPL
+2025-03-18 18:11:14,322 - INFO - Dados formatados para AAPL: {'Ticker': 'AAPL', 'Price': '212.69', 'Change': '-1.47', 'Percent Change': '(-0.69%)'}
+2025-03-18 18:11:14,370 - INFO - Dados salvos com sucesso em data\dados_yahoo_api.csv
+2025-03-18 18:12:37,764 - INFO - Iniciando coleta de dados via API para AAPL
+2025-03-18 18:12:37,767 - INFO - Buscando dados da API para AAPL
+2025-03-18 18:12:39,656 - INFO - Dados formatados para AAPL: {'Ticker': 'AAPL', 'Price': '212.69', 'Change': '-1.47', 'Percent Change': '(-0.69%)'}
+2025-03-18 18:12:39,682 - INFO - Dados salvos com sucesso em data\dados_yahoo_api.csv
+2025-03-18 18:12:51,737 - INFO - Iniciando coleta de dados via API para AAPL
+2025-03-18 18:12:51,741 - INFO - Buscando dados da API para AAPL
+2025-03-18 18:12:56,338 - INFO - Dados formatados para AAPL: {'Ticker': 'AAPL', 'Price': '212.69', 'Change': '-1.47', 'Percent Change': '(-0.69%)'}
+2025-03-18 18:12:56,376 - INFO - Dados salvos com sucesso em data\dados_yahoo_api.csv
+2025-03-18 18:13:05,541 - INFO - Iniciando coleta de dados via API para AAPL
+2025-03-18 18:13:05,545 - INFO - Buscando dados da API para AAPL
+2025-03-18 18:13:14,744 - INFO - Dados formatados para AAPL: {'Ticker': 'AAPL', 'Price': '212.69', 'Change': '-1.47', 'Percent Change': '(-0.69%)'}
+2025-03-18 18:13:14,785 - INFO - Dados salvos com sucesso em data\dados_yahoo_api.csv
