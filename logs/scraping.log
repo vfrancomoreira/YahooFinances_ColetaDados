@@ -30,3 +30,13 @@
 2025-03-18 19:41:49,621 - CRITICAL - Erro inesperado: type object 'YahooScraper' has no attribute 'fetch_data'
 2025-03-18 19:45:09,235 - INFO - Iniciando scraping para AAPL
 2025-03-18 19:45:09,238 - CRITICAL - Erro inesperado: type object 'YahooScraper' has no attribute 'fetch_data'
+2025-04-07 20:30:50,558 - INFO - Iniciando scraping para AAPL
+2025-04-07 20:30:50,559 - INFO - Coletando dados para AAPL em https://finance.yahoo.com/quote/AAPL
+2025-04-07 20:30:52,397 - INFO - Dados extraídos com sucesso para AAPL: {'Ticker': 'AAPL', 'Price': '5062.25', 'Change': '-11.83', 'Percent Change': '(-0.23%)'}
+2025-04-07 20:30:52,459 - INFO - Dados salvos com sucesso em data\dados_yahoo_scraping.csv
+2025-04-07 21:01:31,793 - INFO - Iniciando scraping para AAPL
+2025-04-07 21:01:31,797 - INFO - Fetching data from https://finance.yahoo.com/quote/AAPL
+2025-04-07 21:01:33,346 - INFO - Data fetched successfully from https://finance.yahoo.com/quote/AAPL
+2025-04-07 21:01:33,353 - INFO - Parsing HTML
+2025-04-07 21:01:33,576 - INFO - Iniciando extract_stock_data para AAPL
+2025-04-07 21:01:33,586 - INFO - Dados salvos com sucesso em data/dados_yahoo_scraping.csv
