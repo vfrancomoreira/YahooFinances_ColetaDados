@@ -1,6 +1,6 @@
 # Projeto: Coleta de Dados Financeiros (Yahoo Finance)
 
-Este desafio tem como objetivo coletar dados financeiros do Yahoo Finance utilizando duas abordagens distintas:
+Este projeto tem como objetivo coletar dados financeiros do Yahoo Finance utilizando duas abordagens distintas:
 1. **Web Scraping**: Utilizando `BeautifulSoup` para extrair dados diretamente do site do Yahoo Finance.
 2. **API (yfinance)**: Obtendo dados de ações através da API do Yahoo Finance (`yfinance`).
 
